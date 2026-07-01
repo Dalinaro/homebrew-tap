@@ -8,7 +8,7 @@ cask "ttvpn" do
   homepage "https://github.com/Dalinaro/ttvpn"
 
   auto_updates true
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "TT Vpn.app"
 
