@@ -1,6 +1,6 @@
 cask "ttvpn" do
-  version "1.14"
-  sha256 "0e060c0baf957fa11db6c18a66b0cd70fee9218600e0328429d56a88a7f9e3e9"
+  version "1.15"
+  sha256 "056c58a811a534797d19517510a81640193aa3e37f75d2ec2f6eed991361b2e1"
 
   url "https://github.com/Dalinaro/ttvpn/releases/download/v#{version}/TT-Vpn.dmg"
   name "TT Vpn"
